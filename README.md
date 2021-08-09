@@ -27,7 +27,7 @@
 
 <h2 align="left" id="hfn-tech">Favorite Tech</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Tools, languages, and other things that I like to work with. This doesnt indicates my skills.
 
 <table>
   <tr>
