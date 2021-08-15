@@ -144,8 +144,5 @@
   </tr>
 </table>
 
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
-
 <!-- links -->
 [linkedin]: https://www.linkedin.com/in/titocs/ "Tito LinkedIn"
