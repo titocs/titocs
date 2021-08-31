@@ -18,7 +18,7 @@
 </a>
 
 - 🖥️ &nbsp;I'm currently studying Computer Science
-- :speech_balloon: &nbsp;I like to talk about Game
+- :speech_balloon: &nbsp;I like to talk about Bitcoin
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
