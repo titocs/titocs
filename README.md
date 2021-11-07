@@ -125,9 +125,9 @@
     </td>
     <td align="center" width="96">
       <a href="#hfn-tech" >
-        <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/laravel.svg" width="48" height="48" alt="Laravel" />
+        <img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/PNG/48x48.png" width="48" height="48" alt="Bash Shell" />
       </a>
-      <br>Laravel
+      <br>Bash Shell
     </td>
     <td align="center" width="96">
       <a href="#hfn-tech" >
