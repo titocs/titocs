@@ -32,55 +32,55 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#hfn-tech">
+      <a href="https://devdocs.io/cpp/">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png" width="48" height="48" alt="Cpp" />
       </a>
       <br>C++
     </td>
     <td align="center" width="96">
-      <a href="#hfn-tech">
+      <a href="https://docs.python.org/3/">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#hfn-tech">
+      <a href="https://devdocs.io/c/">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_48x48.png" width="48" height="48" alt="C" />
       </a>
       <br>C
     </td>
     <td align="center" width="96">
-      <a href="#hfn-tech">
+      <a href="https://docs.oracle.com/en/java/">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_48x48.png" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
     <td align="center" width="96">
-      <a href="#hfn-tech">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#hfn-tech">
+      <a href="https://devdocs.io/html/">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
-      <a href="#hfn-tech" >
+      <a href="https://devdocs.io/css/" >
         <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
-      <a href="#hfn-tech">
+      <a href="https://dev.mysql.com/doc/">
         <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <a href="#hfn-tech">
+      <a href="https://code.visualstudio.com/docs">
         <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>VSCode
@@ -88,55 +88,55 @@
   </tr>
   <tr>
     <td align="center" width="96"> 
-      <a href="#hfn-tech" >
+      <a href="https://www.jetbrains.com/help/idea/documentation-tool-window.html" >
         <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/intellij.svg" width="48" height="48" alt="Intelij" />
       </a>
       <br>Intelij
     </td>
     <td align="center" width="96">
-      <a href="#hfn-tech" >
+      <a href="https://www.jetbrains.com/help/idea/documentation-tool-window.html" >
         <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/pycharm.svg" width="48" height="48" alt="PyCharm" />
       </a>
       <br>PyCharm
     </td>
     <td align="center"  width="96">
-      <a href="#hfn-tech">
+      <a href="https://git-scm.com/doc">
         <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center"  width="96">
-      <a href="#hfn-tech">
+      <a href="https://reactjs.org/docs/getting-started.html">
         <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="#hfn-tech">
+      <a href="https://docs.microsoft.com/en-us/powershell/">
         <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
       </a>
       <br>Powershell
     </td>
     <td align="center"  width="96">
-      <a href="#hfn-tech">
+      <a href="https://nodejs.org/en/docs/">
         <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" width="48" height="48" alt="NodeJS" />
       </a>
       <br>NodeJS
     </td>
     <td align="center" width="96">
-      <a href="#hfn-tech" >
+      <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html" >
         <img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/PNG/48x48.png" width="48" height="48" alt="Bash Shell" />
       </a>
       <br>Bash Shell
     </td>
     <td align="center" width="96">
-      <a href="#hfn-tech" >
+      <a href="https://codeigniter4.github.io/userguide/index.html" >
         <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/codeigniter.svg" width="48" height="48" alt="CodeIgniter" />
       </a>
       <br>CodeIgniter
     </td>
     <td align="center" width="96">
-      <a href="#hfn-tech" >
+      <a href="https://www.heroku.com/" >
         <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/heroku.svg" width="48" height="48" alt="Heroku" />
       </a>
       <br>Heroku
