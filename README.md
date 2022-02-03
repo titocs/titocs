@@ -130,10 +130,10 @@
       <br>Bash Shell
     </td>
     <td align="center" width="96">
-      <a href="https://codeigniter4.github.io/userguide/index.html" >
+      <a href="https://sass-lang.com/documentation" >
         <img src="https://i.ibb.co/K0NjtzM/Sass-logo.png" width="48" height="48" alt="CodeIgniter" />
       </a>
-      <br>CodeIgniter
+      <br>SASS
     </td>
     <td align="center" width="96">
       <a href="https://www.heroku.com/" >
