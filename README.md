@@ -17,7 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=titocs&show_icons=true&count_private=true&include_all_commits=true" alt="titocs" align="right" />
 </a>
 
-- 🖥️ &nbsp;I'm currently studying Computer Science
+- 🖥️ &nbsp;Currently studying Computer Science
 - :speech_balloon: &nbsp;I like to talk about Bitcoin
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
