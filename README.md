@@ -131,7 +131,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://codeigniter4.github.io/userguide/index.html" >
-        <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/codeigniter.svg" width="48" height="48" alt="CodeIgniter" />
+        <img src="https://i.ibb.co/K0NjtzM/Sass-logo.png" width="48" height="48" alt="CodeIgniter" />
       </a>
       <br>CodeIgniter
     </td>
