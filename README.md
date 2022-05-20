@@ -112,7 +112,7 @@
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="https://docs.microsoft.com/en-us/powershell/">
+      <a href="https://tailwindcss.com/">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="Tailwind" />
       </a>
       <br>Tailwind
