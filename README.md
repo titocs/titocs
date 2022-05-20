@@ -113,9 +113,9 @@
     </td>
     <td align="center" width="96">
       <a href="https://docs.microsoft.com/en-us/powershell/">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="Tailwind" />
       </a>
-      <br>Powershell
+      <br>Tailwind
     </td>
     <td align="center"  width="96">
       <a href="https://nodejs.org/en/docs/">
