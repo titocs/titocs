@@ -136,10 +136,10 @@
       <br>SASS
     </td>
     <td align="center" width="96">
-      <a href="https://www.heroku.com/" >
-        <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/heroku.svg" width="48" height="48" alt="Heroku" />
+      <a href="https://jquery.com/" >
+        <img src="https://ibb.co/n3DcP9j" width="48" height="48" alt="Heroku" />
       </a>
-      <br>Heroku
+      <br>jQuery
     </td>
   </tr>
 </table>
