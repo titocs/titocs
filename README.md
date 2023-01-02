@@ -137,7 +137,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://jquery.com/" >
-        <img src="https://i.ibb.co/3f0NR2c/JQuery-Logo-wine.png" width="48" height="48" alt="jQuery" />
+        <img src="https://i.ibb.co/FhBRVhQ/jquery.png" width="48" height="48" alt="jQuery" />
       </a>
       <br>jQuery
     </td>
