@@ -1,5 +1,5 @@
 <h1 align="left" id="hfn-title">:wave: Hello there! I'm Tito</h1>
-<h3 align="left">Currently learning Frontend Web Development, and Competitive Programming</h3>
+<h3 align="left">Currently learning Fullstack Web Development, and Competitive Programming</h3>
 
 <p align="left">
   <a href="https://github.com/titocs/titocs">
