@@ -125,9 +125,9 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html" >
-        <img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/PNG/48x48.png" width="48" height="48" alt="Bash Shell" />
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Bash Shell" />
       </a>
-      <br>Bash Shell
+      <br>Postman
     </td>
     <td align="center" width="96">
       <a href="https://sass-lang.com/documentation" >
